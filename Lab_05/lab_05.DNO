@@ -1,0 +1,254 @@
+********************************************************************************
+***                            Micro-Cap 10.0.9.2                            ***
+***                                                                          ***
+***                                                                          ***
+***                          DC Analysis of lab_05                           ***
+***                           20.11.2019 20:05:28                            ***
+********************************************************************************
+Limits
+======
+Variable 1 Method Linear
+Variable 1 Name   I1
+Variable 1 Range  500u, 1u, 10u
+Variable 2 Method List
+Variable 2 Name   V1
+Variable 2 Range  0, 5, 10
+Temperature       Linear 27
+Number of Points  51
+Maximum Change %  5
+Run Options       Normal
+
+
+*****************************************************
+***                Temperature=27                 ***
+***                     V1=0                      ***
+*****************************************************
+
+Temperature=27 V1=0 
+
+Model parameters for devices of type Bipolar Junction Transistors NPN
+=====================================================================
+Instance:              Q1   
+Using model:        NT011   
+LEVEL                   1(*)
+AF                 1.000 (*)
+BF               377.000    
+BR                76.910m   
+CJC                2.780p   
+CJE              650.000f   
+CJS                0.000 (*)
+EG                 1.110 (*)
+FC               500.000m   
+GAMMA             10.000p(*)
+IKF                9.428m   
+IKR                9.430m   
+IRB                0.000 (*)
+IS                 0.888f   
+ISC                3.810f   
+ISE                0.388f   
+ISS                0.000 (*)
+ITF              200.000u   
+KF                 0.000 (*)
+MJC              330.000m   
+MJE              330.000m   
+MJS                0.000 (*)
+NC                 2.000 (*)
+NE                 1.235    
+NF                 1.000 (*)
+NK               500.000m(*)
+NR                 1.000 (*)
+NS                 1.000 (*)
+PTF                0.000 (*)
+QCO                0.000 (*)
+QUASIMOD           0.000 (*)
+RB               110.000    
+RBM                0.000 (*)
+RC                32.300    
+RCO                0.000 (*)
+RE                 0.000 (*)
+T_ABS           UNDEFINED(*)
+T_MEASURED      UNDEFINED(*)
+T_REL_GLOBAL    UNDEFINED(*)
+T_REL_LOCAL     UNDEFINED(*)
+TF                97.100p   
+TR                68.700n   
+TRB1               0.000 (*)
+TRB2               0.000 (*)
+TRC1               0.000 (*)
+TRC2               0.000 (*)
+TRE1               0.000 (*)
+TRE2               0.000 (*)
+TRM1               0.000 (*)
+TRM2               0.000 (*)
+VAF              115.000    
+VAR               70.000    
+VG                 1.206 (*)
+VJC              650.000m   
+VJE              650.000m   
+VJS              750.000m(*)
+VO                10.000 (*)
+VTF               15.000    
+XCJC               1.000 (*)
+XTB                1.500    
+XTF                2.000    
+XTI                3.000 (*)
+(*) Default Parameter
+
+
+
+
+*****************************************************
+***                Temperature=27                 ***
+***                     V1=5                      ***
+*****************************************************
+
+Temperature=27 V1=5 
+
+Model parameters for devices of type Bipolar Junction Transistors NPN
+=====================================================================
+Instance:              Q1   
+Using model:        NT011   
+LEVEL                   1(*)
+AF                 1.000 (*)
+BF               377.000    
+BR                76.910m   
+CJC                2.780p   
+CJE              650.000f   
+CJS                0.000 (*)
+EG                 1.110 (*)
+FC               500.000m   
+GAMMA             10.000p(*)
+IKF                9.428m   
+IKR                9.430m   
+IRB                0.000 (*)
+IS                 0.888f   
+ISC                3.810f   
+ISE                0.388f   
+ISS                0.000 (*)
+ITF              200.000u   
+KF                 0.000 (*)
+MJC              330.000m   
+MJE              330.000m   
+MJS                0.000 (*)
+NC                 2.000 (*)
+NE                 1.235    
+NF                 1.000 (*)
+NK               500.000m(*)
+NR                 1.000 (*)
+NS                 1.000 (*)
+PTF                0.000 (*)
+QCO                0.000 (*)
+QUASIMOD           0.000 (*)
+RB               110.000    
+RBM                0.000 (*)
+RC                32.300    
+RCO                0.000 (*)
+RE                 0.000 (*)
+T_ABS           UNDEFINED(*)
+T_MEASURED      UNDEFINED(*)
+T_REL_GLOBAL    UNDEFINED(*)
+T_REL_LOCAL     UNDEFINED(*)
+TF                97.100p   
+TR                68.700n   
+TRB1               0.000 (*)
+TRB2               0.000 (*)
+TRC1               0.000 (*)
+TRC2               0.000 (*)
+TRE1               0.000 (*)
+TRE2               0.000 (*)
+TRM1               0.000 (*)
+TRM2               0.000 (*)
+VAF              115.000    
+VAR               70.000    
+VG                 1.206 (*)
+VJC              650.000m   
+VJE              650.000m   
+VJS              750.000m(*)
+VO                10.000 (*)
+VTF               15.000    
+XCJC               1.000 (*)
+XTB                1.500    
+XTF                2.000    
+XTI                3.000 (*)
+(*) Default Parameter
+
+
+
+
+*****************************************************
+***                Temperature=27                 ***
+***                     V1=10                     ***
+*****************************************************
+
+Temperature=27 V1=10 
+
+Model parameters for devices of type Bipolar Junction Transistors NPN
+=====================================================================
+Instance:              Q1   
+Using model:        NT011   
+LEVEL                   1(*)
+AF                 1.000 (*)
+BF               377.000    
+BR                76.910m   
+CJC                2.780p   
+CJE              650.000f   
+CJS                0.000 (*)
+EG                 1.110 (*)
+FC               500.000m   
+GAMMA             10.000p(*)
+IKF                9.428m   
+IKR                9.430m   
+IRB                0.000 (*)
+IS                 0.888f   
+ISC                3.810f   
+ISE                0.388f   
+ISS                0.000 (*)
+ITF              200.000u   
+KF                 0.000 (*)
+MJC              330.000m   
+MJE              330.000m   
+MJS                0.000 (*)
+NC                 2.000 (*)
+NE                 1.235    
+NF                 1.000 (*)
+NK               500.000m(*)
+NR                 1.000 (*)
+NS                 1.000 (*)
+PTF                0.000 (*)
+QCO                0.000 (*)
+QUASIMOD           0.000 (*)
+RB               110.000    
+RBM                0.000 (*)
+RC                32.300    
+RCO                0.000 (*)
+RE                 0.000 (*)
+T_ABS           UNDEFINED(*)
+T_MEASURED      UNDEFINED(*)
+T_REL_GLOBAL    UNDEFINED(*)
+T_REL_LOCAL     UNDEFINED(*)
+TF                97.100p   
+TR                68.700n   
+TRB1               0.000 (*)
+TRB2               0.000 (*)
+TRC1               0.000 (*)
+TRC2               0.000 (*)
+TRE1               0.000 (*)
+TRE2               0.000 (*)
+TRM1               0.000 (*)
+TRM2               0.000 (*)
+VAF              115.000    
+VAR               70.000    
+VG                 1.206 (*)
+VJC              650.000m   
+VJE              650.000m   
+VJS              750.000m(*)
+VO                10.000 (*)
+VTF               15.000    
+XCJC               1.000 (*)
+XTB                1.500    
+XTF                2.000    
+XTI                3.000 (*)
+(*) Default Parameter
+
+
+
